@@ -1,6 +1,6 @@
 # AI-Powered Design of Organic Photovoltaics
 
-![Senior Design Final Poster](./Poster.pdf)
+![Senior Design Final Poster](./Poster.png)
 
 ## [Patent Fetching](./patent-fetch-pipline/)
 
