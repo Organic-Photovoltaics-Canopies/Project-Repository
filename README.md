@@ -1,5 +1,7 @@
 # AI-Powered Design of Organic Photovoltaics
 
+![Senior Design Final Poster](./Poster.pdf)
+
 ## [Patent Fetching](./patent-fetch-pipline/)
 
 ## [Variational Graph Autoencoder](./vgae/)
